@@ -1,5 +1,5 @@
 # 💫 Aryan Singh:
- 👋<br>Hi, I'm Aryan Singh 👋
+ <br>Hi, I'm Aryan Singh 👋
 
 🚀 Full-Stack Developer | AI Enthusiast
 💡 Building innovative solutions that solve real-world problems
