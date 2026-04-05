@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Aryan Singh 👋s<br>🔹<br>
+# 💫 Aryan Singh:
+ 👋<br>🔹<br>
 
 
 ## 🌐 Socials:
