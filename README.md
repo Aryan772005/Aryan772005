@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aryan Singh 👋<br><br>🚀 Full-Stack Developer | AI Enthusiast<br>💡 Building innovative solutions at the intersection of technology and real-world problems<br><br>🔹 Currently working on: Ayurcare – an AI-powered Ayurvedic health platform<br>🔹 Tech Stack: React.js, C++, Firebase, APIs<br>🔹<br>
+Hi, I'm Aryan Singh 👋s<br>🔹<br>
 
 
 ## 🌐 Socials:
