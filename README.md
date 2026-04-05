@@ -1,5 +1,15 @@
 # 💫 Aryan Singh:
- 👋<br>🔹<br>
+ 👋<br>Hi, I'm Aryan Singh 👋
+
+🚀 Full-Stack Developer | AI Enthusiast
+💡 Building innovative solutions that solve real-world problems
+
+🔹 Tech Stack: React.js, C++, Firebase, APIs
+🔹 Passionate about: AI, Web Development, and problem-solving
+
+📌 Always learning, building, and improving.
+📫 Let's connect and create something amazing!
+🔹<br>
 
 
 ## 🌐 Socials:
