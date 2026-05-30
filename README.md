@@ -1,5 +1,4 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm Aryan Singh Tariani!<br><br>🎓 Computer Science student passionate about programming and problem-solving.<br><br>💻 Currently learning Data Structures & Algorithms (DSA) in C++.<br><br>🌱 Exploring Web Development with React.js and modern technologies.<br><br>🚀 Interested in Artificial Intelligence, Software Development, and Open Source.<br><br>📚 Always eager to learn new technologies and improve my coding skills.<br><br>⚡ Fun fact: I enjoy solving coding challenges and building creative projects.
+
 
 
 ## 🌐 Socials:
