@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hi 👋
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1500&color=8B0000&center=true&vCenter=true&repeat=true&width=850&height=80&lines=✨+Aryan+Singh+Tariani+✨;💻+Software+Developer;❤️+RCB+Forever+❤️" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=Aryan+Singh" alt="Typing SVG" />
+</div>
+
+<h3 align="center">
+  🚀 Building • Learning • Innovating
+</h3>
 
 </div>
 
