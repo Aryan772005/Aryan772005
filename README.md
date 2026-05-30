@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1500&color=8B0000&center=true&vCenter=true&width=700&lines=Aryan+Singh+Tariani;Software+Developer;RCB" />
+<h1>Hi 👋, I'm Aryan Singh Tariani</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=FF4D4D&center=true&vCenter=true&width=750&lines=Software+Developer;DSA+in+C%2B%2B;RCB+❤️;Building+Cool+Projects" alt="Typing SVG" />
 
 </div>
 
