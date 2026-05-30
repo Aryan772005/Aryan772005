@@ -1,8 +1,4 @@
-Hi 👋
-
-
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFB86C&background=00FF5400&center=true&width=438&lines=+Aryan+Singh+Tariani;Software+developer;Data+analyst;Data+Visulization" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFB86C&background=00FF5400&center=true&vCenter=true&width=438&lines=Python%7CC%7CC%2B%2B;Aqua+Contributor;Data+analyst;Data+Visulization" alt="Typing SVG" /></a>
 
 
 
