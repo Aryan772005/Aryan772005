@@ -1,11 +1,14 @@
 <div align="center">
 
-<h1>Hi 👋, I'm Aryan Singh Tariani</h1>
+# Hi 👋, I'm Aryan Singh Tariani
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1200&color=FF4D4D&center=true&vCenter=true&width=750&lines=Software+Developer;DSA+in+C%2B%2B;RCB+❤️;Building+Cool+Projects" alt="Typing SVG" />
+### 💻 Software Developer
+
+### ❤️ RCB Fan
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
 
 </div>
-
 
 
 
