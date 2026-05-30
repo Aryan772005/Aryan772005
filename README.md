@@ -1,11 +1,10 @@
 
 <div align="center">
 
-# Hi 👋, I'm Aryan Singh Tariani
-
-### 💻 Software Developer | 🚀 DSA Enthusiast | ❤️ RCB Fan
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+There+%F0%9F%91%8B;Aryan+Singh+Tariani;Software+Developer;RCB+Fan" alt="Typing SVG" />
 
 </div>
+
 
 
 
