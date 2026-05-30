@@ -1,3 +1,10 @@
+<div align="center">
+
+# Hi 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=45&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=600&lines=Aryan+Singh" alt="Typing SVG" />
+
+</div>
 
 
 
