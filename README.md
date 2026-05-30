@@ -3,8 +3,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=FFB86C&background=00FF5400&center=true&vCenter=true&width=438&lines=Python%7CC%7CC%2B%2B;Aqua+Contributor;Data+Analyst;Data+Visualization" alt="Typing SVG" />
   </a>
 </div>
->
-Hi there, I'm ARYAN 👋
+><div align="center">
+
+# Hi there, I'm Aryan 👋
+
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryan_tariani_zax) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-singh-tariani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansinghtariani@gmail.com) 
