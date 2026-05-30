@@ -1,14 +1,9 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=40&duration=3500&pause=1500&color=8B0000&center=true&vCenter=true&repeat=true&width=850&height=80&lines=✨+Aryan+Singh+Tariani+✨;💻+Software+Developer;❤️+RCB+Forever+❤️" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1500&color=8B0000&center=true&vCenter=true&width=700&lines=Aryan+Singh+Tariani;Software+Developer;RCB" />
 
 </div>
 
-<h3 align="center">
-  🚀 Building • Learning • Innovating
-</h3>
-
-</div>
 
 
 
