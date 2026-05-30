@@ -1,14 +1,12 @@
+
 <div align="center">
 
 # Hi 👋, I'm Aryan Singh Tariani
 
-### 💻 Software Developer
-
-### ❤️ RCB Fan
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
+### 💻 Software Developer | 🚀 DSA Enthusiast | ❤️ RCB Fan
 
 </div>
+
 
 
 
