@@ -1,6 +1,4 @@
-hi
- 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=41&pause=1000&color=5BEB25&width=435&lines=Hello+Guys!;My+Name+Is+Aryan+Singh+Tariani;Software+developer;Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=5BEB25&center=true&width=438&lines=Hello+Guys!;My+Name+Is+Aryan+Singh+Tariani;Software+developer;Web+Developer" alt="Typing SVG" /></a>
 
 
 
